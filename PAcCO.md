@@ -1,3 +1,4 @@
+<B>Download Definition</B></br>
 Parent HAC access code download, allows for searching by student ID </br>
 Additional SQL:</br>
 join reg_stu_contact</br>
