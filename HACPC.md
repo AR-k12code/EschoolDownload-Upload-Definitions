@@ -1,4 +1,4 @@
-<H1>Download Definition</H1>
+<B>Download Definition</B></br>
 Set HAC guardian Login to Y and allow the HAC Utility (Registration->Utilities->Generate HAC credentials) to set Logins for Guardians and generate the access code.</br>
 This is a change from some previous methods, due to the password encryption in eschool and a not great way to automate the process </br>
 </br>
